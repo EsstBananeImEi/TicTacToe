@@ -1,0 +1,9 @@
+*.idea
+*.pyc
+*.ipynb_checkpoints
+*__pycache__
+*.venv
+*.vscode
+*.log*
+*.coverage
+*htmlcov
